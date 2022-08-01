@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amanda-Ribeiro
 - 👀 I’m interested in  Aprender a  Programar
-- 🌱    Atualmente estou no Bootcamp Santander Code Girls 2022 na DIO
+- 🌱 Atualmente estou no Bootcamp Santander Code Girls 2022 na DIO
 - 📫 
 
 <!---
